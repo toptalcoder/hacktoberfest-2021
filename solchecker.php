@@ -1,7 +1,7 @@
 <?php
 
 $banner = "                                                                               
-[#] Solana Token Checker [#] ";
+[#] Solana Checker [#] ";
                                                                                  
                                                                                                                                                                  
 sleep(2);
